@@ -112,7 +112,7 @@ Purpose: Fetches the WordPress installation package from the official WordPress 
 Status: Shows that the download was successful.
 Details: The file latest.tar.gz is 23.5 MB in size and was saved in the /tmp directory.
 
-•ls:
+• ls:
 
 Action: Lists the contents of the /tmp directory.
 Purpose: Verifies that the file latest.tar.gz has been downloaded successfully.
@@ -123,6 +123,10 @@ Downloaded and installed WordPress on the EC2 instance. Configured it to connect
 Security and Optimization:
 
 ![Screenshot 2024-08-20 225136](https://github.com/user-attachments/assets/8b88c6de-05e9-46f6-9d8d-7b96bedf5cab)
+
+### Final Website Overview
+
+![Screenshot 2024-08-20 202428](https://github.com/user-attachments/assets/4ac31ff5-327e-4b55-84b8-a5945f5841fa)
 
 
 Thoroughly tested the deployment to ensure everything was running smoothly. Once verified, the website was launched, ready to handle visitors from around the globe.
