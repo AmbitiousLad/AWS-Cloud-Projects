@@ -53,5 +53,5 @@ This project demonstrates how to build a **serverless chatbot** for booking dent
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/dental-appointment-chatbot.git
-   cd dental-appointment-chatbot
+   git clone [https://github.com/yourusername/dental-appointment-chatbot.git](https://github.com/AmbitiousLad/AWS-Cloud-Projects.git)
+   cd AmazonLex_ChatBot
