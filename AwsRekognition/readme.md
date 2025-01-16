@@ -72,5 +72,5 @@ Create a script to test face recognition by uploading another image of the same 
 
 You have successfully set up a demo project using AWS Rekognition, S3, DynamoDB, and Lambda. This project allows you to upload images with metadata to S3, automatically store image data in DynamoDB using a Lambda function, and test face recognition with another image of the same person.
 
-Feel free to share any feedback or improvements for this project. Happy coding!
+
 
