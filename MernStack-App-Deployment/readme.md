@@ -1,6 +1,7 @@
 # A simple MERN stack application 
 
 # File Structure
+```
 .
 ├── MERN-docker-compose
 │   ├── docker-compose.yaml
@@ -74,6 +75,8 @@
         └── WiredTiger.wt
 
 19 directories, 51 files
+
+```
 
 ### Create a network for the docker containers
 
