@@ -115,3 +115,7 @@ docker build -t mern-backend .
 ## Using Docker Compose
 
 `docker compose up -d`
+
+## Important Note 
+` if you are deploying this application in Through Cloud Providers , make sure to replace the ```http://localhost:5050/record``` this with ```http://<EC2-PUBLIC-IP>:5050/record```
+by using ```cd frontent/src/components/``` modify this two files named `Record.jsx` and `RecordList.jsx` `
